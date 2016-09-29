@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<addon scheme='2.0'>
+    <id>finderz_api</id>
+    <version>1.0</version>
+    <name>Finderz API</name>
+    <description>Custom API for finder n keeperz</description>
+    <priority>100500</priority>
+</addon>

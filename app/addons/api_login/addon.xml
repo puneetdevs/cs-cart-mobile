@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>api_login</id>
+    <version>1.0</version>
+    <priority>130000</priority>
+    <position>0</position>
+    <status>active</status>
+    <default_language>en</default_language>
+    <authors>
+        <author>
+            <name>Istvan Drahos</name>
+            <email>hello@isti.hu</email>
+            <url>http://isti.hu</url>
+            <phone></phone>
+        </author>
+    </authors>
+    <license></license>
+</addon>
