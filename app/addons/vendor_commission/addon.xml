@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>vendor_commission</id>
+    <version>1.0</version>
+    <priority>1000</priority>
+    <position>45</position>
+    <status>active</status>
+    <default_language>en</default_language>
+    <auto_install>MULTIVENDOR</auto_install>
+    <compatibility>
+        <core_edition>MULTIVENDOR</core_edition>
+        <conflicts>vendor_plans</conflicts>
+    </compatibility>
+    <settings>
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="commissions_header">
+                        <type>header</type>
+                    </item>
+                    <item id="include_shipping">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                    </item>
+                    <item id="include_payment_surcharge">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="display_header">
+                        <type>header</type>
+                    </item>
+                    <item id="show_apply_for_vendor_link">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+    <functions>
+        <item for="install">fn_vendor_commission_install</item>
+        <item for="uninstall">fn_vendor_commission_uninstall</item>
+    </functions>
+</addon>

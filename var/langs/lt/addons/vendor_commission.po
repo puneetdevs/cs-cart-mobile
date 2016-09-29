@@ -1,0 +1,65 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+
+msgctxt "Addons::name::vendor_commission"
+msgid "Vendor commission"
+msgstr "Vendor commission"
+
+msgctxt "Addons::description::vendor_commission"
+msgid "Allows you to take commission from vendors on every sale and restrict vendors' access to certain categories."
+msgstr "Allows you to take commission from vendors on every sale and restrict vendors' access to certain categories."
+
+msgctxt "SettingsOptions::vendor_commission::commissions_header"
+msgid "Commissions"
+msgstr "Commissions"
+
+msgctxt "SettingsOptions::vendor_commission::include_shipping"
+msgid "Include shipping cost in vendors commission"
+msgstr "Include shipping cost in vendors commission"
+
+msgctxt "SettingsOptions::vendor_commission::include_payment_surcharge"
+msgid "Take payment surcharge from vendors"
+msgstr "Take payment surcharge from vendors"
+
+msgctxt "SettingsOptions::vendor_commission::display_header"
+msgid "Display"
+msgstr "Display"
+
+msgctxt "SettingsOptions::vendor_commission::show_apply_for_vendor_link"
+msgid "Show \"Apply for a vendor\" link in \"My account menu\""
+msgstr "Show \"Apply for a vendor\" link in \"My account menu\""
+
+msgctxt "SettingsTooltips::vendor_commission::include_payment_surcharge"
+msgid "If enabled, a customer will not be able to see payment surcharge and it will not be applied to the order total."
+msgstr "If enabled, a customer will not be able to see payment surcharge and it will not be applied to the order total."
+
+msgctxt "Languages::vendor_commission.category_is_empty"
+msgid "Please specify a category."
+msgstr "Please specify a category."
+
+msgctxt "Languages::vendor_commission.vendor_commission"
+msgid "Vendor commission"
+msgstr "Vendor commission"
+
+msgctxt "Languages::vendor_commission.uninstall_text"
+msgid "The <strong>Apply for a vendor account</strong> link has been removed from the <strong>My account</strong> block. Please add a link manually in the <a href=\"[menu_href]\" target=\"_blank\">Menu</a> or <a href=\"[layouts_href]\" target=\"_blank\">Layouts</a> section. The link must lead to <strong>dispatch=companies.apply_for_vendor</strong>"
+msgstr "The <strong>Apply for a vendor account</strong> link has been removed from the <strong>My account</strong> block. Please add a link manually in the <a href=\"[menu_href]\" target=\"_blank\">Menu</a> or <a href=\"[layouts_href]\" target=\"_blank\">Layouts</a> section. The link must lead to <strong>dispatch=companies.apply_for_vendor</strong>"
+
+msgctxt "Languages::vendor_commission.upgrade_notes_title"
+msgid "Vendor commission changes"
+msgstr "Vendor commission changes"
+
+msgctxt "Languages::vendor_commission.upgrade_notes_text"
+msgid "We have moved the whole vendor commission functionality to an add-on called <strong>Vendor commission</strong>. Now the vendor commission settings <strong>Take payment surcharge from vendors</strong> and <strong>Include shipping cost in vendors commission</strong> are added to your store by this add-on. Multi-Vendor has the Vendor commission add-on installed and enabled out of the box."
+msgstr "We have moved the whole vendor commission functionality to an add-on called <strong>Vendor commission</strong>. Now the vendor commission settings <strong>Take payment surcharge from vendors</strong> and <strong>Include shipping cost in vendors commission</strong> are added to your store by this add-on. Multi-Vendor has the Vendor commission add-on installed and enabled out of the box."
+
+msgctxt "Languages::vendor_commission.upgrade_notes_apply_for_vendor_title"
+msgid "Apply for a Vendor Account link is now a part of the Vendor Commissions add-on"
+msgstr "Apply for a Vendor Account link is now a part of the Vendor Commissions add-on"
+
+msgctxt "Languages::vendor_commission.upgrade_notes_apply_for_vendor_text"
+msgid "The <strong>Show \"Apply for a vendor\" link in \"My account menu\"</strong> checkbox is available under <strong>Add-ons → Manage add-ons → Vendor commissions</strong>. It determnines whether to display the vendor application link to registered customers in the <strong>My account</strong> menu.<br /><br />If you disable or delete the <strong>Vendor Commissions</strong> add-on, you'll have to add the application link manually in the <a href=\"[menu_href]\" target=\"_blank\">Menu</a> or <a href=\"[layouts_href]\" target=\"_blank\">Layouts</a> section. The link must lead to <strong>dispatch=companies.apply_for_vendor</strong>"
+msgstr "The <strong>Show \"Apply for a vendor\" link in \"My account menu\"</strong> checkbox is available under <strong>Add-ons → Manage add-ons → Vendor commissions</strong>. It determnines whether to display the vendor application link to registered customers in the <strong>My account</strong> menu.<br /><br />If you disable or delete the <strong>Vendor Commissions</strong> add-on, you'll have to add the application link manually in the <a href=\"[menu_href]\" target=\"_blank\">Menu</a> or <a href=\"[layouts_href]\" target=\"_blank\">Layouts</a> section. The link must lead to <strong>dispatch=companies.apply_for_vendor</strong>"

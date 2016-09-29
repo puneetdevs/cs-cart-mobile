@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Georgian\n"
+"Language: ka_GE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: ka\n"
+"X-Crowdin-File: /addons/vendor_data_premoderation.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-04-28 19:53-0400\n"
+
+msgctxt "Addons::name::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "გამყიდველების მონაცემების პრე-მოდერაცია"
+
+msgctxt "Addons::description::vendor_data_premoderation"
+msgid "Lets you pre-moderate vendors activity"
+msgstr "მონაცემების პრე-მოდერაცია, რომელიც დაამატეს გამყიდველები"
+
+msgctxt "Languages::product_approval_menu_description"
+msgid "Manage individual products or group of products supplied by the store vendors."
+msgstr "გამყიდვლების მიერ მოწოდებული ინდივიდუალური პროდუქტის ან პროდუქტების ჯგუფის მართვა."
+
+msgctxt "Languages::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "გამყიდვლების მონაცემების პრე-მოდერაცია"
+
+msgctxt "Languages::product_approval"
+msgid "Product approval"
+msgstr "პროდუქტი დამოწმებულია"
+
+msgctxt "Languages::notify_vendor_by_email"
+msgid "Notify vendor by e-mail"
+msgstr "გამყიდველის ინფორმირება ელ-ფოსტით"
+
+msgctxt "Languages::product_approval_status_approved"
+msgid "Your product [product] has been approved by the store administration and added to the product catalog. Now shoppers can order this product in the store."
+msgstr "თქვენი პროდუქტი [product] დადასტურებულია მაღაზიის ადმინისტრატორის მიერ და დამატებულია პროდუქტების კატალოგში. მყიდველები უკვე შეძლებენ პროდუქტის შეძენას მაღაზიაში."
+
+msgctxt "Languages::product_approval_status_disapproved"
+msgid "Your product [product] has been disapproved by the store administration"
+msgstr "თქვენი პროდუქტი [product] უარყოფილია მაღაზიის ადმინისტრატორის მიერ"
+
+msgctxt "Languages::products_approval_status_approved"
+msgid "Thank you for submitting new products. The following products have been approved by the store administration and added to the product catalog"
+msgstr "გმადლობთ, ახალი პროდუქტის დამატებისთვის! შემდეგი პროდუქტები დადასტურებულია მაღაზიის ადმინისტრატორის მიერ და დამატებულია პროდუქტის კატალოგში"
+
+msgctxt "Languages::text_shoppers_can_order_products"
+msgid "Now shoppers can order these products in the store."
+msgstr "მყიდველებს უკვე შეუძლიათ იყიდონ პროდუქტი მაღაზიაში."
+
+msgctxt "Languages::products_approval_status_disapproved"
+msgid "Thank you for submitting new products. The following products have been disapproved by the store administration"
+msgstr "გმადლობთ, რომ დაამატეთ ახალი პროდუქტი! შემდეგი პროდუქტები არ დადასტურდა მაღაზიის ადმინისტრატორის მიერ"
+
+msgctxt "Languages::approve_selected"
+msgid "Approve selected"
+msgstr "მონიშნულის დამოწმება"
+
+msgctxt "Languages::disapprove_selected"
+msgid "Disapprove selected"
+msgstr "მონიშნულის უარყოფა"
+
+msgctxt "Languages::pre_moderation"
+msgid "Products require prior approval"
+msgstr "პროდუქცია მოითხოვს წინასწარ დამტკიცებას"
+
+msgctxt "Languages::pre_moderation_edit"
+msgid "Approve product info updates"
+msgstr "პროდუქციაზე ინფორმაციის ცვლილებების დადასტურება"
+
+msgctxt "Languages::pre_moderation_edit_vendors"
+msgid "Approve vendor profile updates"
+msgstr "პროდუქციაზე ინფორმაციის ცვლილებების დადასტურება გამყიდველის აკაუნტში"
+
+msgctxt "Languages::text_not_approved_products"
+msgid "You have products that require your approval. Please <a href=\"[link]\">follow this link</a> to review these products."
+msgstr "თქვენ გაქვთ პროდუქტი, რომელიც საჭიროებს დადასტურებას. გთხოვთ,<a href=\"[link]\">მიყვეთ ბმულს</a>განსახილველად."
+
+msgctxt "Languages::products_approval_status_changed"
+msgid "Your product(s) have been [status]"
+msgstr "თქვენმა პროდუქტ(ებ)მა მიიღეს შემდეგი სტატუსი [status]"
+
+msgctxt "Languages::approval"
+msgid "Approval"
+msgstr "დამოწმებული"
+
+msgctxt "Languages::text_vendor_profile_changes_notice"
+msgid "Are you sure that you want to update the profile? Information about your company will not be available in the customer area until the administrator approves it."
+msgstr "დარწმუნებული ხართ, რომ გსურთ თქვენი აკაუნტის განახლება? ინფორმაცია თქვენს კომპანიაზე არ იქნება ნაჩვენები მაღაზიის ვიტრინაში, სანამ ადმინისტრატორი არ დაადასტურებს მას."
+
+msgctxt "Languages::privileges.manage_product_premoderation"
+msgid "Approve vendor products"
+msgstr "პროდუქციის დადასტურება, რომელის დაამატა გამყიდველმა"
+
+msgctxt "SettingsSections::vendor_data_premoderation::general"
+msgid "General"
+msgstr "ზოგადი"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_prior_approval"
+msgid "Approval is required for newly created products"
+msgstr "ახალ პროდუქციას სჭირდება დადასტურება"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_updates_approval"
+msgid "Approve product info updates"
+msgstr "პროდუქციაზე ინფორმაციის ცვლილებების დადასტურება"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "Approve vendor profile updates"
+msgstr "პროდუქციაზე ინფორმაციის ცვლილებების დადასტურება გამყიდველის აკაუნტში"
+
+msgctxt "SettingsTooltips::vendor_data_premoderation::products_prior_approval"
+msgid "\"None\" - this option is disabled for all vendors; \"Custom\" - the option is enabled on a vendor details page (the Add-ons tab); \"All vendors\" - the option is enabled for all vendors."
+msgstr ""
+
+msgctxt "SettingsTooltips::vendor_data_premoderation::products_updates_approval"
+msgid "\"None\" - this option is disabled for all vendors; \"Custom\" - the option is enabled on a vendor details page (the Add-ons tab); \"All vendors\" - the option is enabled for all vendors."
+msgstr ""
+
+msgctxt "SettingsTooltips::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "\"None\" - this option is disabled for all vendors; \"Custom\" - the option is enabled on a vendor details page (the Add-ons tab); \"All vendors\" - the option is enabled for all vendors."
+msgstr ""
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::none"
+msgid "None"
+msgstr "არცერთი"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::custom"
+msgid "Custom"
+msgstr ""
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::all"
+msgid "All vendors"
+msgstr "ყველა მომწოდებელი"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::none"
+msgid "None"
+msgstr "არცერთი"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::custom"
+msgid "Custom"
+msgstr ""
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::all"
+msgid "All vendors"
+msgstr "ყველა მომწოდებელი"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::none"
+msgid "None"
+msgstr "არცერთი"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::custom"
+msgid "Custom"
+msgstr ""
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::all"
+msgid "All vendors"
+msgstr "ყველა მომწოდებელი"
+

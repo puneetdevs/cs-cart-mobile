@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /addons/vendor_data_premoderation.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-05-24 06:59-0400\n"
+
+msgctxt "Addons::name::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Szállítói adatok előzetes ellenőrzése"
+
+msgctxt "Addons::description::vendor_data_premoderation"
+msgid "Lets you pre-moderate vendors activity"
+msgstr "Eladói tevékenységek moderálását teszi lehetővé"
+
+msgctxt "Languages::product_approval_menu_description"
+msgid "Manage individual products or group of products supplied by the store vendors."
+msgstr "Egyes termékek vagy termékcsoportok kezelése, melyeknek beszállítói eladók."
+
+msgctxt "Languages::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Eladói adatok moderálása"
+
+msgctxt "Languages::product_approval"
+msgid "Product approval"
+msgstr "Termék jóváhagyása"
+
+msgctxt "Languages::notify_vendor_by_email"
+msgid "Notify vendor by e-mail"
+msgstr "Eladó értesítése e-mailen"
+
+msgctxt "Languages::product_approval_status_approved"
+msgid "Your product [product] has been approved by the store administration and added to the product catalog. Now shoppers can order this product in the store."
+msgstr "[product] termékét az áruház felelőse jóváhagyta, és megjelent a termékkatalógusban. Ezentúl a vásárlók meg tudják rendelni ezt a terméket az áruházban."
+
+msgctxt "Languages::product_approval_status_disapproved"
+msgid "Your product [product] has been disapproved by the store administration"
+msgstr "[product] termékét az áruház adminisztrátora elutasította"
+
+msgctxt "Languages::products_approval_status_approved"
+msgid "Thank you for submitting new products. The following products have been approved by the store administration and added to the product catalog"
+msgstr "Köszönjük, hogy beküldött új termékeket. Az alábbi termékek az adminisztrátorok általi ellenőrzést követően kerülnek ki az áruház katalógusába"
+
+msgctxt "Languages::text_shoppers_can_order_products"
+msgid "Now shoppers can order these products in the store."
+msgstr "Mostantól a látogatók meg tudják rendelni az áruházban."
+
+msgctxt "Languages::products_approval_status_disapproved"
+msgid "Thank you for submitting new products. The following products have been disapproved by the store administration"
+msgstr "Köszönjük, hogy beküldött termékeket. Az alábbi termékek elutasításra kerültek az adminisztrátorok részéről"
+
+msgctxt "Languages::approve_selected"
+msgid "Approve selected"
+msgstr "Kijelöltek elfogadása"
+
+msgctxt "Languages::disapprove_selected"
+msgid "Disapprove selected"
+msgstr "Kijelöltek elutasítása"
+
+msgctxt "Languages::pre_moderation"
+msgid "Products require prior approval"
+msgstr "Termékek előzetes jóváhagyása szükséges"
+
+msgctxt "Languages::pre_moderation_edit"
+msgid "Approve product info updates"
+msgstr "Termékinformáció frissítésének elfogadása"
+
+msgctxt "Languages::pre_moderation_edit_vendors"
+msgid "Approve vendor profile updates"
+msgstr "Eladó profilfrissítés elfogadása"
+
+msgctxt "Languages::text_not_approved_products"
+msgid "You have products that require your approval. Please <a href=\"[link]\">follow this link</a> to review these products."
+msgstr "Vannak olyan termékei, melyek elfogadás alatt vannak. Az <a href=\"[link]\">alábbi linken</a> tekintheti ezeket a termékeket meg."
+
+msgctxt "Languages::products_approval_status_changed"
+msgid "Your product(s) have been [status]"
+msgstr "A termék(ek) [status] státuszban vannak"
+
+msgctxt "Languages::approval"
+msgid "Approval"
+msgstr "Elfogadás"
+
+msgctxt "Languages::text_vendor_profile_changes_notice"
+msgid "Are you sure that you want to update the profile? Information about your company will not be available in the customer area until the administrator approves it."
+msgstr "Biztosan frissíteni szeretné profilját? A frissített információk mindaddig nem lesznek láthatóak, amíg az áruház adminisztrátorai nem ellenőrzik azokat."
+
+msgctxt "Languages::privileges.manage_product_premoderation"
+msgid "Approve vendor products"
+msgstr "Eladói termékek elfogadása"
+
+msgctxt "SettingsSections::vendor_data_premoderation::general"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_prior_approval"
+msgid "Approval is required for newly created products"
+msgstr "Az újonnan létrehozott termékek esetén elfogadás szükséges"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_updates_approval"
+msgid "Approve product info updates"
+msgstr "Termékinformáció frissítésének elfogadása"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "Approve vendor profile updates"
+msgstr "Eladó profilfrissítés elfogadása"
+
+msgctxt "SettingsTooltips::vendor_data_premoderation::products_prior_approval"
+msgid "\"None\" - this option is disabled for all vendors; \"Custom\" - the option is enabled on a vendor details page (the Add-ons tab); \"All vendors\" - the option is enabled for all vendors."
+msgstr "\"Nincs\" - ez a lehetőség letiltott az összes eladó számára; \"Egyedi\" - ez a lehetőség engedélyezett az eladói beállítások oldalon (a Bővítmények fülön); \"Minden eladó\" - ez a lehetőség minden eladó számára engedélyezett."
+
+msgctxt "SettingsTooltips::vendor_data_premoderation::products_updates_approval"
+msgid "\"None\" - this option is disabled for all vendors; \"Custom\" - the option is enabled on a vendor details page (the Add-ons tab); \"All vendors\" - the option is enabled for all vendors."
+msgstr "\"Nincs\" - ez a lehetőség letiltott az összes eladó számára; \"Egyedi\" - ez a lehetőség engedélyezett az eladói beállítások oldalon (a Bővítmények fülön); \"Minden eladó\" - ez a lehetőség minden eladó számára engedélyezett."
+
+msgctxt "SettingsTooltips::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "\"None\" - this option is disabled for all vendors; \"Custom\" - the option is enabled on a vendor details page (the Add-ons tab); \"All vendors\" - the option is enabled for all vendors."
+msgstr "\"Nincs\" - ez a lehetőség letiltott az összes eladó számára; \"Egyedi\" - ez a lehetőség engedélyezett az eladói beállítások oldalon (a Bővítmények fülön); \"Minden eladó\" - ez a lehetőség minden eladó számára engedélyezett."
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::none"
+msgid "None"
+msgstr "Nincs"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::custom"
+msgid "Custom"
+msgstr "Egyedi"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::all"
+msgid "All vendors"
+msgstr "Minden eladó"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::none"
+msgid "None"
+msgstr "Nincs"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::custom"
+msgid "Custom"
+msgstr "Egyedi"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::all"
+msgid "All vendors"
+msgstr "Minden eladó"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::none"
+msgid "None"
+msgstr "Nincs"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::custom"
+msgid "Custom"
+msgstr "Egyedi"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::all"
+msgid "All vendors"
+msgstr "Minden eladó"
+
